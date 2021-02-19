@@ -1,4 +1,3 @@
-# vuejs-conceitos
-Vue.js Brasil
+# Vue.js Brasil
 
-Conceitos de vue.js
+Conceitos de vue.js 3
